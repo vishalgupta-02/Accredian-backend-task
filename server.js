@@ -15,7 +15,7 @@ connectDB();
 // Middleware
 app.use(
   cors({
-    origin: "https://accredian-frontend-task-one-brown.vercel.app",
+    origin: "https://accredian-frontend-task-neon-psi.vercel.app",
   })
 );
 app.use(express.json());
